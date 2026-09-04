@@ -147,13 +147,6 @@ Some of the things I'm building:
 </div>
 
 ---
-
-## 💭 Random Quote
-
-> **"If you can think it, you can probably build it."**
-
----
-
 <div align="center">
 
 ### ⚡ Thanks for checking out my profile!
