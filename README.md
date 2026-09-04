@@ -78,44 +78,6 @@ I'm constantly working on new projects and experimenting with different ideas.
 </div>
 
 ---
-
-## 🎮 Projects
-
-Some of the things I'm building:
-
-| Project            | Description                             |
-| ------------------ | --------------------------------------- |
-| 🎰 **Games**       | Browser games and experimental projects |
-| 🌐 **Websites**    | Custom websites and web experiences     |
-| 🧪 **Experiments** | Random ideas turned into projects       |
-| 🔗 **All Links**   | My central social/link hub              |
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=dominatedbycarl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominatedbycarl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170">
-
-</div>
-
----
-
-## 🔥 Current Goals
-
-```text
-[████████████████████░░] Build more projects
-[███████████████░░░░░░░] Improve coding
-[██████████████░░░░░░░░] Grow the community
-[████████████░░░░░░░░░░] Create better games
-[██████████░░░░░░░░░░░░] Upload more content
-```
-
----
-
 ## 🌎 Find Me
 
 <div align="center">
